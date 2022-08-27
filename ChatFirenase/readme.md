@@ -10,7 +10,7 @@ Esta es una pequeña aplicación mobile para el sistema Android, en la cual pode
 ## ¿ Cómo nació la idea de está app ? 👨‍💻
 Surguio a través de lo retos proporcionado por [MoureDev](https://github.com/mouredev), en conjunto con [Rviewer](https://github.com/Rviewer-Challenges). Por lo tanto, desde ese punto empecé a imaginarme como sería mi propio chat, entonces de ahí surgió Room Chat, que en sí misma es una reducción de un proyecto mucho más grande, pero en si es una pequeña prueba de una de las característica que tendrá el otro proyecto. Mas adelante tendran avances 😉
 
-## ¿ Es muy complicada usarla ? 🙆‍♂️
+## ¿ complicada de usarla ? 🙆‍♂️
 En lo absoluto, es mucho más fácil de lo que parece:
 - Primero, tiene que iniciar sesión con su cuenta de google:
 <img style="width : 400px" src="https://github.com/Rviewer-Challenges/H21fsMEAhjInLkmKSET7/blob/main/Imagenes/login.png">
